@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **tulXoro/tulXoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tulXoro's github stats](https://github-readme-stats.vercel.app/api?username=tulxoro&show_icons=true&theme=tokyonight&count_private=true) 
+![tulXoro's github stats](https://github-readme-stats.vercel.app/api?username=tulxoro&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulxoro&theme=tokyonight&layout=compact&langs_count=6)
+
+### ok
+I'm an aspiring computer science student currently looking for ways to expand my skills! As you can tell, Java is the lanuage that I'm the most proficient in! 
+
+
