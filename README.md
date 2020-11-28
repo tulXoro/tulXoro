@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![tulXoro's github stats](https://github-readme-stats.vercel.app/api?username=tulxoro&show_icons=true&theme=tokyonight&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulxoro&theme=tokyonight&layout=compact&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulxoro&theme=tokyonight&layout=compact&langs_count=6)
