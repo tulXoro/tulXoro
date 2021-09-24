@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## About me
 I'm an aspiring computer science student currently looking for ways to expand my skills! As you can tell, Java is the language that I'm the most proficient in!
-Contact me on [Twitter](https://twitter.com/tim__lor), [Instagram](https://www.instagram.com/tim__lor/?hl=en) or Discord (tulxoro#3977)! 
+Contact me on [Twitter](https://twitter.com/tulxoro), [Instagram](https://www.instagram.com/tulxoro/?hl=en) or Discord (tulxoro#3977)! 
 Ask me any questions [here](https://github.com/tulXoro/tulXoro/issues)!
 
 
