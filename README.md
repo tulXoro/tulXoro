@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ![tulXoro's github stats](https://github-readme-stats.vercel.app/api?username=tulxoro&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulxoro&theme=tokyonight&layout=compact&langs_count=6)
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tulXoro&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
-[![tulXoro's github activity graph](https://activity-graph.herokuapp.com/graph?username=tulXoro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## About me
