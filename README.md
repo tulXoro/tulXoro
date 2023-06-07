@@ -1,3 +1,3 @@
 Hello!
 
-Please visit [my website](https://tulxoro.me) for more information about me!
+Please visit [my website](https://tulxoro.net) for more information about me!
