@@ -2,7 +2,7 @@
 
 ## My Github
 
-I like to keep things organized, so you will notice a lot of [**archived**](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories) repositories. Like the status implies, I've archived it because they are projects/programs that are no longer being maintained. If you have any questions about any of them, please reach out to me.
+I like to keep things organized, so you will notice a lot of [**archived**](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories) repositories. Like the status implies, I've archived them because they are projects/programs that are no longer being maintained. If you have any questions about any of them, please reach out to me.
 
 ## Biography
 
