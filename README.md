@@ -1,4 +1,4 @@
-# Welcome!
+![Welcome, Tim's Github](./profile/images/gh-readme-header.png)
 
 ## About Me
 
