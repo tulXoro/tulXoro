@@ -2,7 +2,7 @@
 
 ![About Me](./profile/images/gh-about-header-lw.png)
 
-    I am a Software Engineer! I'm always trying to improve my skills. My hobbies include watching anime and playing video games. If I'm not doing either of those, I'm probably reading web novels or manga/manhwa/manhua/webcomics. I also love programming and software development.
+I am a Software Engineer! I'm always trying to improve my skills. My hobbies include watching anime and playing video games. If I'm not doing either of those, I'm probably reading web novels or manga/manhwa/manhua/webcomics. I also love programming and software development.
 
 ![My Github](./profile/images/gh-github-header-lw.png)
 
