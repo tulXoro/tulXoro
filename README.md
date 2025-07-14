@@ -1,4 +1,4 @@
-![Welcome, Tim's Github](./profile/images/gh-readme-header.png)
+![Welcome, Tim's Github](./profile/images/gh-header.png)
 
 ![About Me](./profile/images/gh-about-header-lw.png)
 
