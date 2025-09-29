@@ -1,4 +1,4 @@
-![Welcome, Tim's Github](./profile/images/gh-header.png)
+# Welcome, to Tim's Github!
 
 I'm Software Engineer! I'm passionate about problem solving and software development! My hobbies include watching anime and playing video games. If I'm not doing either of those, I'm probably reading web novels or manga/manhwa/manhua/webcomics.
 
